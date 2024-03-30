@@ -1,0 +1,16 @@
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net8.0-windows\GorselProgramlamaOdev.exe
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net8.0-windows\GorselProgramlamaOdev.deps.json
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net8.0-windows\GorselProgramlamaOdev.runtimeconfig.json
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net8.0-windows\GorselProgramlamaOdev.dll
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net8.0-windows\GorselProgramlamaOdev.pdb
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.Form1.resources
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.csproj.GenerateResource.cache
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.AssemblyInfoInputs.cache
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.AssemblyInfo.cs
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.csproj.CoreCompileInputs.cache
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.dll
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\refint\GorselProgramlamaOdev.dll
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.pdb
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\GorselProgramlamaOdev.genruntimeconfig.cache
+C:\Users\mevlu\OneDrive\Masaüstü\GorselProgramlamaOdev\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net8.0-windows\ref\GorselProgramlamaOdev.dll
